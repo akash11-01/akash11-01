@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Akash Jaiswar</h1>
 <h3 align="center">A passionate MERN developer</h3>
-<img align="right" alt="Coding" width="400" src="https://www.simontechway.com/wp-content/uploads/2020/04/dev-gif.gif">
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash11-01&label=Profile%20views&color=0e75b6&style=flat" alt="akash11-01" /> </p>
 
 - 🌱 I’m currently doing **Problem Solving**
