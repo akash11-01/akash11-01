@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akash Jaiswar</h1>
 <h3 align="center">A passionate MERN-stack developer and Programmer</h3>
 
-- 🔭 I’m currently working on [Problem Solving](https://github.com/akash11-01/E-Commerce)
+- 🔭 I’m currently working on **Problem Solving**
 
 - 👯 I’m looking to collaborate on **Full-Stack Projects**
 
