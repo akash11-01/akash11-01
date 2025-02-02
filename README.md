@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akash Jaiswar</h1>
 <h3 align="center">A passionate Programmer and MERN-stack developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akash11-01&label=Profile%20views&color=0e75b6&style=flat" alt="akash11-01" /> </p>
-
 - 🔭 I’m currently working on **Problem Solving**
 
 - 👯 I’m looking to collaborate on **Full-Stack Projects**
