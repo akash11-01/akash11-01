@@ -40,20 +40,14 @@
 - **[Movie-Recommendation-System](https://github.com/akash11-01/Movie-Recommendation-System)**  
   Content-based recommendation engine with **FastAPI, React, cosine similarity, and live movie poster integration**.
 
-- **[Driver-Drowsiness-Detection](https://github.com/akash11-01/Driver-Drowsiness-Detection)**  
-  Applied computer vision project focused on detecting driver fatigue for safety-oriented use cases.
-
 ---
 
 ### 🌐 Full-Stack / Backend Systems
-- **[VideoTube-Backend](https://github.com/akash11-01/VideoTube-Backend)**  
-  Backend-heavy video platform project covering **authentication, media workflows, playlists, comments, likes, and scalable REST APIs**.
-
 - **[GroceryPoint](https://github.com/akash11-01/GroceryPoint)**  
   E-commerce style application built around **product flows, user interactions, and practical shopping workflows**.
 
-- **[School-Managment-System](https://github.com/akash11-01/School-Managment-System)**  
-  Full-stack academic management platform designed for real-world educational use cases.
+- **[VideoTube-Backend](https://github.com/akash11-01/VideoTube-Backend)**  
+  Backend-heavy video platform project covering **authentication, media workflows, playlists, comments, likes, and scalable REST APIs**.
 
 - **[Real-Estate](https://github.com/akash11-01/Real-Estate)**  
   Property listing and management platform with a focus on modern product-style web development.
